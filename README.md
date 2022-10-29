@@ -4,6 +4,6 @@ Il progetto consiste nell'implementazione di un algoritmo parallelo (np processo
 Il linguaggio utilizzato per la realizzazione del codice è il linguaggio C.
 Ulteriori informazioni nella relazione.
 Contribuenti:
-Gianluca Ilardo (https://github.com/gianlucailardo)
-Francesco Zibaldo ()
+- [Gianluca Ilardo](https://github.com/gianlucailardo)
+- [Francesco Zibaldo](https://github.com/kekkozib)
 
